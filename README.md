@@ -23,4 +23,4 @@ Phishing Awareness Guide
      - Contact your bank if financial information was compromised
      - Scan affected devices for malware
   6. PROJECT OBJECTIVE
-     This project aims to educate individuals about phishing attacks, help them recognise warning signs and encourage safer online behaviour.
+     This project is intended to help students, employees and general internet users recognise phishing attacks and adopt safer online practices.
